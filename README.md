@@ -3,7 +3,7 @@
 This is a chess game that utilizes automatic speech recognition technology to allow players to make moves through voice commands.
 
 # Video:
-[![Video](68747470733a2f2f696d672e796f75747562652e636f6d2f76692f4c736c5a676847306854452f6d617872657364656661756c742e6a7067.jpg)](https://www.youtube.com/watch?v=LslZghG0hTE)
+[![Video](https://github.com/RonBenDavid/Chess-Game-Controlled-by-Automatic-Speech-Recognition-and-CNC-Machine/blob/main/IMAGES/video.jpg)](https://www.youtube.com/watch?v=LslZghG0hTE)
 
 ![main](https://github.com/RonBenDavid/Chess-Game-Controlled-by-Automatic-Speech-Recognition-and-CNC-Machine/blob/main/IMAGES/image115.jpg?raw=true)
 
