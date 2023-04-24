@@ -4,6 +4,9 @@ This is a chess game that utilizes automatic speech recognition technology to al
 
 ![main](https://github.com/RonBenDavid/Chess-Game-Controlled-by-Automatic-Speech-Recognition-and-CNC-Machine/blob/main/IMAGES/image115.jpg?raw=true)
 
+# Video:
+[![Video](https://img.youtube.com/vi/LslZghG0hTE/maxresdefault.jpg)](https://www.youtube.com/watch?v=LslZghG0hTE)
+
 ## Motivation
 
 Moving the chess pieces requires fine motor skills and dexterity, which can be challenging for individuals with physical disabilities. As a result, these individuals may not have the opportunity to enjoy the many benefits of playing chess.
